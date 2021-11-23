@@ -1,0 +1,23 @@
+
+        GIT COMANDS
+
+
+
+#yum install git                              ----to install git
+#git init                                    ---- to initilize the git
+#git status                                 ------to know the status of files
+#which git                                   ---  git path
+#whereis git                                  --- git path
+#git config --global user.name "username"     ----to config the user name
+#git config --global user.email "emai@email.com"  ---to config user email
+#git config --list                               ----to list the all configuration
+#touch <file>                   ---- to create empty file
+#git add <file name>    --to add the file from workspace to index
+#git add . or * or -A    ---to add all files at a time from workspace to index
+#git commit -m "label name" <file name>  --- to add file from index to local repo
+#git commit -m "label name"   ---- to all files at a time
+#
+#
+#
+#
+#
